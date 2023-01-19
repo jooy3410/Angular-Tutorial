@@ -1,3 +1,5 @@
+#Angular 공식 문서를 보면서 학습한 내용을 정리하는 곳입니다.
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
